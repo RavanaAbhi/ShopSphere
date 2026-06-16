@@ -2,7 +2,9 @@ package com.dev.domain.usecase.product
 
 import com.dev.domain.repository.ProductRepository
 
-class GetProductsUseCase(
+import javax.inject.Inject
+
+class GetProductsUseCase @Inject constructor(
     private val repository: ProductRepository
 ) {
 
