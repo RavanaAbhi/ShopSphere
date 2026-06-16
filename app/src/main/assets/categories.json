@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mobiles",
+    "imageUrl": "https://picsum.photos/100/100?random=11"
+  },
+  {
+    "id": 2,
+    "name": "Laptops",
+    "imageUrl": "https://picsum.photos/100/100?random=12"
+  },
+  {
+    "id": 3,
+    "name": "Tablets",
+    "imageUrl": "https://picsum.photos/100/100?random=13"
+  },
+  {
+    "id": 4,
+    "name": "Headphones",
+    "imageUrl": "https://picsum.photos/100/100?random=14"
+  },
+  {
+    "id": 5,
+    "name": "Smart Watches",
+    "imageUrl": "https://picsum.photos/100/100?random=15"
+  },
+  {
+    "id": 6,
+    "name": "Cameras",
+    "imageUrl": "https://picsum.photos/100/100?random=16"
+  },
+  {
+    "id": 7,
+    "name": "Gaming",
+    "imageUrl": "https://picsum.photos/100/100?random=17"
+  },
+  {
+    "id": 8,
+    "name": "Shoes",
+    "imageUrl": "https://picsum.photos/100/100?random=18"
+  },
+  {
+    "id": 9,
+    "name": "Fashion",
+    "imageUrl": "https://picsum.photos/100/100?random=19"
+  },
+  {
+    "id": 10,
+    "name": "Books",
+    "imageUrl": "https://picsum.photos/100/100?random=20"
+  },
+  {
+    "id": 11,
+    "name": "Home",
+    "imageUrl": "https://picsum.photos/100/100?random=21"
+  },
+  {
+    "id": 12,
+    "name": "Beauty",
+    "imageUrl": "https://picsum.photos/100/100?random=22"
+  }
+]
